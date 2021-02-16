@@ -30,6 +30,19 @@ experience:
       duration : "2016-2017"
       content : "Devloped a reccurent nueral network and mixed integer programming models for market segmention assignment based upon observed behavioral paterns. (*Toolset: Tensorflow/keras, CVXPY, XGBoost, SQL*)"
 
+    # experience item loop
+    - name : "Science & Technology Policy Fellow"
+      company : "United States Department of Defense"
+      duration : "2014-2015"
+      content : ""
+
+    # experience item loop
+    - name : "Postdoctoral Fellow"
+      company : "New York Univeristy"
+      duration : "2013-2016"
+      content : "Development of novel MRI imaging techniques for *in-vivo* spectroscopy including the [Transfer Rate Edited CEST experiment](https://pubmed.ncbi.nlm.nih.gov/25996515/)."
+
+
 
 
 ############################### Skill #################################
