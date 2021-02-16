@@ -1,30 +1,29 @@
 ---
-title : "SERVICES"
+title : "EDUCATION"
 service_list:
 # service item loop
-- name : "Web Development"
-  image : "images/icons/web-development.png"
+- name : "Postdoctoral Fellow"
+  image : "images/icons/nyu.png"
   
 # service item loop
-- name : "Graphic Design"
-  image : "images/icons/graphic-design.png"
+- name : "Postdoctoral Fellow"
+  image : "images/icons/UW.png"
   
 # service item loop
-- name : "Database Management"
-  image : "images/icons/dbms.png"
-  
-# service item loop
-- name : "Software Development"
-  image : "images/icons/software-development.png"
-  
-# service item loop
-- name : "Digital Marketing"
-  image : "images/icons/marketing.png"
-  
-# service item loop
-- name : "Mobile App Development"
-  image : "images/icons/mobile-app.png"
+- name : "Doctor of Philosophy"
+  image : "images/icons/jhu.png"
 
+# service item loop
+- name : "Insight Data Science Fellow"
+  image : "images/icons/insight.png"
+
+# service item loop
+- name : "AAAS Fellow"
+  image : "images/icons/DoD.jpg"
+
+# service item loop
+- name : "Bachlors of Science"
+  image : "images/icons/psu.png" 
 
 
 # custom style

@@ -16,7 +16,7 @@ experience:
     - name : "Sr. Principal Data Scientist"
       company : "Nielsen"
       duration : "2018-Now"
-      content : "Leading Statistical Inference & Modeling Team. Overseeing devlopment of semi-supervised models and probabilistic programming to draw meaningfull insigts about consumer behaviors from partly/anonymized data sets. (*Toolset: Pyro & Numpyro, Pytorch, Spark*)"
+      content : "Leading Statistical Inference & Modeling Team. Overseeing devlopment of semi-supervised models and probabilistic programming to draw meaningfull insigts about consumer behaviors from partly/anonymized data sets. (*Toolset: Pyro & Numpyro, Pytorch, Spark, Airflow*)"
       
     # experience item loop
     - name : "Principal Data Scientist"
@@ -29,19 +29,6 @@ experience:
       company : "Nielsen"
       duration : "2016-2017"
       content : "Devloped a reccurent nueral network and mixed integer programming models for market segmention assignment based upon observed behavioral paterns. (*Toolset: Tensorflow/keras, CVXPY, XGBoost, SQL*)"
-
-    # experience item loop
-    - name : "Science & Technology Policy Fellow"
-      company : "United States Department of Defense"
-      duration : "2014-2015"
-      content : ""
-
-    # experience item loop
-    - name : "Postdoctoral Fellow"
-      company : "New York Univeristy"
-      duration : "2013-2016"
-      content : "Development of novel MRI imaging techniques for *in-vivo* spectroscopy including the [Transfer Rate Edited CEST experiment](https://pubmed.ncbi.nlm.nih.gov/25996515/)."
-
 
 
 
@@ -60,39 +47,16 @@ skill:
       
     # skill item loop
     - name : "Software Development"
-      percentage : "85%"
+      percentage : "92%"
       
     # skill item loop
     - name : "Data Engineering"
-      percentage : "75%"
+      percentage : "77%"
       
     # skill item loop
     - name : "Statistics"
       percentage : "70%"
 
-
-########################### Education ##############################
-education:
-  enable : true
-  title : "EXPERIENCE"
-  experience_list:
-    # experience item loop
-    - name : "Sr. Principal Data Scientist"
-      company : "Nielsen"
-      duration : "2018-Now"
-      content : "Leading the Statistical Inference team; devloping probabilistic graphical models to draw meaningfull insigts about consumer behaviors from partly/anaomized data sets."
-      
-    # experience item loop
-    - name : "Principal Data Scientist"
-      company : "Nielsen"
-      duration : "2017-2018"
-      content : "Devolped, tested and advised deployment of"
-      
-    # experience item loop
-    - name : "Lead Data Scientist"
-      company : "Nielsen"
-      duration : "2016-2017"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
 
 # custom style
@@ -101,4 +65,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+It's Josh! I like to think of myself as a professional student, cheerleader / enabler for my team and goto problem solver for all things ill defined.<br><br>I began my career in academia where I was actve in fields that spaned focus from the motions individual atoms to science policy for national security.<br><br>But I have since transitioned to Data Science, applying many of the same computational techniques I used as a scientist to address a much more diverse set of unknowns, while learning more about all things statitistics and machine learning.  
