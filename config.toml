@@ -116,7 +116,7 @@ url = "service"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Blog"
+name = "Datascience Blog"
 url = "blog"
 weight = 4
 

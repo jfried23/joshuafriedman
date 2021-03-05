@@ -1,8 +1,7 @@
 ---
-title: "Portfolio"
+title: "Academic Research Areas"
 description: "This is meta description."
 draft: false
-
 
 # custom style
 custom_class: "" 
